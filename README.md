@@ -7,20 +7,26 @@
 ## 🚀 Skills & Technologies
 
 ### 🖥️ Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="80" height="80"/>
+</p>
 
 ### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="80" height="80"/>
+</p>
 
 ### 🛠️ Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?logo=power-automate&logoColor=white)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/96/000000/microsoft-power-automate.png" alt="Power Automate" width="80" height="80"/>
+</p>
 
 ---
 
@@ -33,9 +39,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Lavkush's GitHub stats](https://github-readme-stats.vercel.app/api?username=LavkushMaurya&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LavkushMaurya&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LavkushMaurya&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavkushMaurya&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
@@ -53,12 +60,12 @@
 ---
 
 ## 📫 Connect With Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/Lavkushmaurya93)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lavkush@example.com)
+<p align="center">
+  <a href="https://twitter.com/Lavkushmaurya93"><img src="https://img.icons8.com/color/96/000000/twitter.png" width="60"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60"/></a>
+  <a href="mailto:lavkush@example.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="60"/></a>
+</p>
 
 ---
 
 ✨ *This profile README showcases my skills, projects, and learning journey.*
-
-
