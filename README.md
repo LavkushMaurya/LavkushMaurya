@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lavkush Maurya  
 
-🎓 MCA Graduate | 💻Software Developer | 🌐 Full-Stack Enthusiast  
+🎓 MCA Graduate | 💻 Aspiring Software Developer | 🌐 Full-Stack Enthusiast  
 
 ---
 
@@ -109,17 +109,17 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://twitter.com/Lavkushmaurya93">
+        <a href="https://x.com/Lavkushmaurya93" target="_blank">
           <img src="https://img.icons8.com/color/96/000000/twitter.png" width="60"/><br><b>Twitter</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://www.linkedin.com/in/lavkush-maurya-569883204/">
+        <a href="https://www.linkedin.com/in/lavkush-maurya-569883204/" target="_blank">
           <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60"/><br><b>LinkedIn</b>
         </a>
       </td>
       <td align="center">
-        <a href="mailto:lavkush@example.com">
+        <a href="mailto:mauryalavkush33@gmail.com" target="_blank">
           <img src="https://img.icons8.com/color/96/000000/gmail.png" width="60"/><br><b>Email</b>
         </a>
       </td>
