@@ -58,7 +58,13 @@
 ---
 
 ## 📈 Lavkush Maurya's Stats & Top Languages
-<div align="left">
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LavkushMaurya&theme=tokyonight)
+
+</div>
+
+<div align="center">
   <table>
     <tr>
       <td align="center" style="border:1px solid #444; padding:15px; border-radius:10px;">
@@ -129,4 +135,4 @@
 
 ---
 
-✨ *This profile README showcases my skills, projects, live activity, star‑rated top languages, achievements, and learning journey.*
+✨ *This profile README showcases my skills, projects, live activity, GitHub stats (including streaks), star‑rated top languages, achievements, and learning journey.*
