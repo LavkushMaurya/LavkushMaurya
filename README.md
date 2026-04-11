@@ -5,28 +5,42 @@
 ---
 
 ## 🚀 Skills & Technologies
-
-### 🖥️ Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="80" height="80"/>
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="80" height="80"/>
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="80" height="80"/>
-  <img src="https://img.icons8.com/color/96/000000/microsoft-power-automate.png" alt="Power Automate" width="80" height="80"/>
-</p>
+<div align="left">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="80"/><br><b>C#</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="80"/><br><b>SQL Server</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="80"/><br><b>C++</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80"/><br><b>JavaScript</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="80"/><br><b>HTML5</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="80"/><br><b>CSS3</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80"/><br><b>React</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="80"/><br><b>ASP.NET</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="80"/><br><b>Docker</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="80"/><br><b>Visual Studio</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -38,34 +52,81 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LavkushMaurya&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavkushMaurya&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+## 📊 Live GitHub Activity
+![Lavkush Maurya's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=LavkushMaurya&theme=tokyonight)
 
 ---
 
-## 🌟 Extra Sections
+## 📈 Lavkush Maurya's Stats & Top Languages
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" style="border:1px solid #444; padding:15px; border-radius:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="70"/><br>
+        <b>C#</b><br>
+        ⭐⭐⭐⭐☆ (4/5)
+      </td>
+      <td align="center" style="border:1px solid #444; padding:15px; border-radius:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="70"/><br>
+        <b>SQL Server</b><br>
+        ⭐⭐⭐⭐☆ (4/5)
+      </td>
+      <td align="center" style="border:1px solid #444; padding:15px; border-radius:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="70"/><br>
+        <b>C++</b><br>
+        ⭐⭐⭐☆ (3/5)
+      </td>
+      <td align="center" style="border:1px solid #444; padding:15px; border-radius:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70"/><br>
+        <b>JavaScript</b><br>
+        ⭐⭐⭐⭐☆ (4/5)
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🎯 Learning Roadmaps
-- **JavaScript** → Core Basics, Functions, Objects, DOM, Async, ES6+, Advanced, Browser APIs, Modern Usage  
-- **SQL** → Fundamentals, Queries, Joins, Aggregation, Subqueries, Set Ops, DML/DDL, Views, Transactions, Indexes, Advanced SQL  
+---
 
-### 🏆 Achievements
+## 🌟 Achievements
 - Built multiple full-stack projects with **ASP.NET Core + React**  
-- Designed workflow automation using **Power Automate + SQL Server**  
+- Designed workflow automation using **SQL Server + Docker**  
 - Organized GitHub portfolio with **roadmaps & cheat sheets**  
+- Published structured **JavaScript & SQL learning roadmaps**  
+
+---
+
+## 🎯 Learning Roadmaps
+### JavaScript
+- Core Basics → Functions → Objects → DOM → Async → ES6+ → Advanced → Browser APIs → Modern Usage  
+
+### SQL Server
+- Fundamentals → Queries → Joins → Aggregation → Subqueries → Set Ops → DML/DDL → Views → Transactions → Indexes → Advanced SQL  
 
 ---
 
 ## 📫 Connect With Me
-<p align="center">
-  <a href="https://twitter.com/Lavkushmaurya93"><img src="https://img.icons8.com/color/96/000000/twitter.png" width="60"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60"/></a>
-  <a href="mailto:lavkush@example.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="60"/></a>
-</p>
+<div align="left">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://twitter.com/Lavkushmaurya93">
+          <img src="https://img.icons8.com/color/96/000000/twitter.png" width="60"/><br><b>Twitter</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/lavkush-maurya-569883204/">
+          <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60"/><br><b>LinkedIn</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:lavkush@example.com">
+          <img src="https://img.icons8.com/color/96/000000/gmail.png" width="60"/><br><b>Email</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-✨ *This profile README showcases my skills, projects, and learning journey.*
+✨ *This profile README showcases my skills, projects, live activity, star‑rated top languages, achievements, and learning journey.*
