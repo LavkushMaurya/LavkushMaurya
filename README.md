@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lavkush Maurya  
 
-🎓 MCA Graduate | 💻 Software Developer | 🌐 Full-Stack Enthusiast  
+🎓 MCA Graduate || 💻 Software Developer | 🌐 Full-Stack Enthusiast  
 
 ---
 
